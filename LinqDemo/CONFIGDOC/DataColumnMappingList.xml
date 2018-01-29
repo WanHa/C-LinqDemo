@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Table ID="T_USER_INFO">
+    <Column ID="1">
+     <ColumnHeader>F_USER_ID</ColumnHeader>  
+     <DisplayValue>用户ID</DisplayValue> 
+     <IsVisible>1</IsVisible>
+    </Column>  
+    <Column ID="2">
+      <ColumnHeader>F_USER_NAME</ColumnHeader>  
+      <DisplayValue>用户名</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column>  
+    <Column ID="3">
+      <ColumnHeader>F_USER_PASSWORD</ColumnHeader>  
+      <DisplayValue>密码</DisplayValue> 
+      <IsVisible>1</IsVisible>
+    </Column>  
+    <Column ID="4">
+      <ColumnHeader>F_USER_EMAIL</ColumnHeader>  
+      <DisplayValue>邮箱</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column>  
+    <Column ID="5">
+      <ColumnHeader>F_USER_MOBILE</ColumnHeader>  
+      <DisplayValue>电话</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column>
+    <Column ID="6">
+      <ColumnHeader>F_USER_PERMISSION</ColumnHeader>  
+      <DisplayValue>权限</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column>  
+    <Column ID="7">
+      <ColumnHeader>F_USER_CREATEDATE</ColumnHeader>  
+      <DisplayValue>创建日期</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column>  
+    <Column ID="8">
+      <ColumnHeader>F_USER_UPDATEDATE</ColumnHeader>  
+      <DisplayValue>更新日期</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column> 
+    <Column ID="9">
+      <ColumnHeader>F_USER_LOGIN_STATUS</ColumnHeader>  
+      <DisplayValue>登录状态</DisplayValue> 
+      <IsVisible>0</IsVisible>
+    </Column> 
+  </Table>
+</Root>
